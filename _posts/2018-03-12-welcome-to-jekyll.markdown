@@ -17,7 +17,6 @@ The body parts of the car were joined together using the glue gun and the fevibo
 
 Earlier we had small size wheels cut out from cardboard and later on we increased their radius so that the car covers a larger distance. Three cardboard circular pieces were jointed together to make a wheel. We had put small pieces of straw at the center of the wheels and a screwers through these straws to make the axle of the car.Rubber bands were used on both the sides of the wheel to keep it in place.The wheels were covered with a tape so as not to allow the air to pass through it.
 ![car02](https://user-images.githubusercontent.com/36836659/37872961-292a8a64-3030-11e8-9667-09d19b6805d8.jpg)
-![car5](https://user-images.githubusercontent.com/36836659/37270568-4d58795e-25f5-11e8-94a0-8f0547a5ed97.jpg)
 
 Once the complete car model was ready, black colour was sprayed on it to give it a good look.
 ![car4](https://user-images.githubusercontent.com/36836659/37270571-4f3131f8-25f5-11e8-9e9a-369333fad127.jpg)
