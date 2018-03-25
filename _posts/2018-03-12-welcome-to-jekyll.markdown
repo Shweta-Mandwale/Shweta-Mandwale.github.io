@@ -13,16 +13,17 @@ After deciding the design and making it on illustrator, we got it lasor cut on c
 ![car6](https://user-images.githubusercontent.com/36836659/37270566-4a4b5204-25f5-11e8-8a19-f568ab487634.jpg)
 
 The body parts of the car were joined together using the glue gun and the fevibond.
-![car1](https://user-images.githubusercontent.com/36836659/37269737-e7bb9dcc-25f1-11e8-9c89-e961dc29ac29.jpg)
+![04 car](https://user-images.githubusercontent.com/36836659/37873136-ac1a1a72-3033-11e8-82cb-9427bd79b889.jpg)
 
 Earlier we had small size wheels cut out from cardboard and later on we increased their radius so that the car covers a larger distance. Three cardboard circular pieces were jointed together to make a wheel. We had put small pieces of straw at the center of the wheels and a screwers through these straws to make the axle of the car.Rubber bands were used on both the sides of the wheel to keep it in place.The wheels were covered with a tape so as not to allow the air to pass through it.
 ![car02](https://user-images.githubusercontent.com/36836659/37872961-292a8a64-3030-11e8-9667-09d19b6805d8.jpg)
 
-Once the complete car model was ready, black colour was sprayed on it to give it a good look.
+Once the complete car model was ready, black colour was sprayed on it to give it a good look.![car1](https://user-images.githubusercontent.com/36836659/37269737-e7bb9dcc-25f1-11e8-9c89-e961dc29ac29.jpg)
 ![car4](https://user-images.githubusercontent.com/36836659/37270571-4f3131f8-25f5-11e8-9e9a-369333fad127.jpg)
-![car01](https://user-images.githubusercontent.com/36836659/37872960-26131486-3030-11e8-963c-6af87976e10e.jpg)
 
 So the car was complete and ready for a race!
+![car01](https://user-images.githubusercontent.com/36836659/37872960-26131486-3030-11e8-963c-6af87976e10e.jpg)
+
 New updates will be added to the blog soon with the videos of race.
 
 Thank You for reading!
