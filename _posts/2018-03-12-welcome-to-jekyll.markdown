@@ -6,8 +6,7 @@ comments: true
 categories: jekyll update
 ---
  'BATMOBILE' is a car model. The making of the car was a part of our Skill Exploration IID Module where we were asked to first sketch the design and then using softwares and equipments from the workshop, we had to create a working model.
-![car7](https://user-images.githubusercontent.com/36836659/37271011-20b98602-25f7-11e8-9c46-524b046a495f.jpg)
-
+ ![03car](https://user-images.githubusercontent.com/36836659/37873041-dac7f616-3031-11e8-8c1a-c699fd83cfe3.jpg)
 
 After deciding the design and making it on illustrator, we got it lasor cut on cardboard.
 ![car3](https://user-images.githubusercontent.com/36836659/37270573-516216cc-25f5-11e8-8dbb-7e833a5e8b5e.jpg)
