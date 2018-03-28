@@ -6,9 +6,10 @@ comments: true
 categories: jekyll update
 ---
  'BATMOBILE' is a car model. The making of the car was a part of our Skill Exploration IID Module where we were asked to first sketch the design and then using softwares and equipments from the workshop, we had to create a working model.
- ![03car](https://user-images.githubusercontent.com/36836659/37873041-dac7f616-3031-11e8-8c1a-c699fd83cfe3.jpg)
+![car first](https://user-images.githubusercontent.com/36836659/38028549-dd140b9a-32b0-11e8-9551-f1225f89c4e3.jpg)
 
 After deciding the design and making it on illustrator, we got it lasor cut on cardboard.
+[Batmobile.pdf](https://github.com/Shweta-Mandwale/Shweta-Mandwale.github.io/files/1855927/Batmobile.pdf)
 ![car3](https://user-images.githubusercontent.com/36836659/37270573-516216cc-25f5-11e8-8dbb-7e833a5e8b5e.jpg)
 ![car6](https://user-images.githubusercontent.com/36836659/37270566-4a4b5204-25f5-11e8-8a19-f568ab487634.jpg)
 
@@ -19,17 +20,21 @@ Earlier we had small size wheels cut out from cardboard and later on we increase
 ![car02](https://user-images.githubusercontent.com/36836659/37872961-292a8a64-3030-11e8-9667-09d19b6805d8.jpg)
 
 Once the complete car model was ready, black colour was sprayed on it to give it a good look.![car1](https://user-images.githubusercontent.com/36836659/37269737-e7bb9dcc-25f1-11e8-9c89-e961dc29ac29.jpg)
-![car4](https://user-images.githubusercontent.com/36836659/37270571-4f3131f8-25f5-11e8-9e9a-369333fad127.jpg)
+![car20](https://user-images.githubusercontent.com/36836659/38029086-8845352e-32b2-11e8-995b-c3031e565585.jpg)
+![car50](https://user-images.githubusercontent.com/36836659/38030136-697e4718-32b5-11e8-8283-f3c47447ebad.jpg)
 
 So the car was complete and ready for a race!
-![car01](https://user-images.githubusercontent.com/36836659/37872960-26131486-3030-11e8-963c-6af87976e10e.jpg)
+![car30](https://user-images.githubusercontent.com/36836659/38029181-cd88521a-32b2-11e8-9320-856ddb360e1b.jpg)
 
-New updates will be added to the blog soon with the videos of race.
+The race!!!
+![car race](https://user-images.githubusercontent.com/36836659/38032208-aaff5380-32ba-11e8-9ab8-751d0d32e790.jpg)
+
 
 Thank You for reading!
+Comments are appreciated.
 
 Thanks to the group members-  Manna James Rao,
-                              Shweta Mandwale'
+                              Shweta Mandwale,
                               Arushi Shukla.
 
 {% if page.comments %}
