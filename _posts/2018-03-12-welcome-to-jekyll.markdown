@@ -9,9 +9,8 @@ categories: jekyll update
 ![car first](https://user-images.githubusercontent.com/36836659/38028549-dd140b9a-32b0-11e8-9551-f1225f89c4e3.jpg)
 
 After deciding the design and making it on illustrator, we got it lasor cut on cardboard.
-[Batmobile.pdf](https://github.com/Shweta-Mandwale/Shweta-Mandwale.github.io/files/1855927/Batmobile.pdf)
-![car3](https://user-images.githubusercontent.com/36836659/37270573-516216cc-25f5-11e8-8dbb-7e833a5e8b5e.jpg)
-![car6](https://user-images.githubusercontent.com/36836659/37270566-4a4b5204-25f5-11e8-8a19-f568ab487634.jpg)
+![car3](https://user-images.githubusercontent.com/36836659/38032738-fcefd8da-32bb-11e8-831d-2b3f856b8dc1.jpg)
+![car6](https://user-images.githubusercontent.com/36836659/38032742-fe943636-32bb-11e8-9566-678f732b3239.jpg)
 
 The body parts of the car were joined together using the glue gun and the fevibond.
 ![04 car](https://user-images.githubusercontent.com/36836659/37873136-ac1a1a72-3033-11e8-82cb-9427bd79b889.jpg)
